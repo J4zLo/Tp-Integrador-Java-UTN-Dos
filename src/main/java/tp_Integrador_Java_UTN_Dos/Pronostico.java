@@ -12,11 +12,8 @@ public class Pronostico {
         this.equipo = equipo;
         this.resultadoProno = resultadoProno;
 
-    //Metodo de puntos vacio
-    //public PronosticoVacio() {}
+
     }
-
-
 
 
     public int puntos(){
